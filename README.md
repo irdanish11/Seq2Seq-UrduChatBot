@@ -38,7 +38,7 @@ Tensorflow Version 1.13.1
 The following python packages are used in seq2seq-chatbot:
 (excluding packages that come with Anaconda)
 
-- [googletrans] (https://github.com/ssut/py-googletrans)
+- [googletrans](https://github.com/ssut/py-googletrans)
    ```shell
     pip install googletrans
     ```	
