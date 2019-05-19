@@ -1,0 +1,783 @@
+[{"City": "TOKYO", "Country": "Japan", "Ur_City": "\u0679\u0648\u06a9\u06cc\u0648", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "JAKARTA", "Country": "Indonesia", "Ur_City": "\u062c\u06a9\u0627\u0631\u062a\u06c1", "Ur_Country": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
+
+{"City": "New York", "Country": "United States", "Ur_City": "\u0646\u06cc\u0648\u06cc\u0627\u0631\u06a9", "Ur_Country": "\u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "SEOUL", "Country": "South Korea", "Ur_City": "\u0633\u06cc\u0648\u0644", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "MANILA", "Country": "Philippines", "Ur_City": "\u0645\u0646\u06cc\u0644\u0627", "Ur_Country": "\u0641\u0644\u067e\u0627\u0626\u0646"},
+
+{"City": "Mumbai", "Country": "India", "Ur_City": "\u0645\u0645\u0628\u06cc", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Sao Paulo", "Country": "Brazil", "Ur_City": "\u0633\u0627\u0624 \u067e\u0627\u0644\u0648", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "MEXICO CITY", "Country": "Mexico", "Ur_City": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648", "Ur_Country": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
+
+{"City": "Delhi", "Country": "India", "Ur_City": "\u062f\u06c1\u0644\u06cc", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Osaka", "Country": "Japan", "Ur_City": "\u0627\u0648\u0633\u0627\u06a9\u0627", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "CAIRO", "Country": "Egypt", "Ur_City": "\u0642\u0627\u06c1\u0631\u06c1", "Ur_Country": "\u0645\u0635\u0631"},
+
+{"City": "Kolkata", "Country": "India", "Ur_City": "\u06a9\u0648\u0644\u06a9\u062a\u06c1", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Los Angeles (CA)", "Country": "United States", "Ur_City": "\u0644\u0627\u0633 \u0627\u06cc\u0646\u062c\u0644\u0633", "Ur_Country": "\u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Shanghai", "Country": "China", "Ur_City": "\u0634\u0646\u06af\u06be\u0627\u0626\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "MOSCOW", "Country": "Russia", "Ur_City": "\u0645\u0627\u0633\u06a9\u0648", "Ur_Country": "\u0631\u0648\u0633"},
+
+{"City": "BEIJING", "Country": "China", "Ur_City": "\u0628\u06cc\u062c\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Guangzhou", "Country": "China", "Ur_City": "\u06af\u0648\u0627\u0646\u06af\u0632\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Shenzhen", "Country": "China", "Ur_City": "\u0634\u06cc\u0646\u0632\u06cc\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Istanbul", "Country": "Turkey", "Ur_City": "\u0627\u0633\u062a\u0646\u0628\u0648\u0644", "Ur_Country": "\u062a\u0631\u06a9\u06cc"},
+
+{"City": "Rio de Janeiro", "Country": "Brazil", "Ur_City": "\u0631\u06cc\u0648 \u0688\u06cc \u062c\u06cc\u0646\u0631\u0648", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "PARIS", "Country": "France", "Ur_City": "\u067e\u06cc\u0631\u0633", "Ur_Country": "\u0641\u0631\u0627\u0646\u0633"},
+
+{"City": "Nagoya", "Country": "Japan", "Ur_City": "\u0646\u0627\u06af\u0648\u06cc\u0627", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "Chicago", "Country": "United States", "Ur_City": "\u0634\u06a9\u0627\u06af\u0648", "Ur_Country": "\u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Lagos", "Country": "Nigeria", "Ur_City": "\u0644\u0627\u06af\u0648\u0633", "Ur_Country": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"},
+
+{"City": "LONDON", "Country": "United Kingdom", "Ur_City": "\u0644\u0646\u062f\u0646", "Ur_Country": "\u0628\u0631\u0637\u0627\u0646\u06cc\u06c1"},
+
+{"City": "BANGKOK", "Country": "Thailand", "Ur_City": "\u0628\u0646\u06a9\u0627\u06a9", "Ur_Country": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"},
+
+{"City": "KINSHASA", "Country": "Dem Rep of Congo", "Ur_City": "\u06a9\u0646\u0634\u0627\u0633\u0627", "Ur_Country": "\u06a9\u0627\u0646\u06af\u0648 \u06a9\u0627 \u0688\u06cc\u0645\u0648 \u0631\u06cc\u067e"},
+
+{"City": "TEHRAN", "Country": "Iran", "Ur_City": "\u062a\u06c1\u0631\u0627\u0646", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "LIMA", "Country": "Peru", "Ur_City": "\u0644\u06cc\u0645\u0627", "Ur_Country": "\u067e\u06cc\u0631\u0648"},
+
+{"City": "BOGOTA", "Country": "Colombia", "Ur_City": "\u0628\u0648\u06af\u0648\u0679\u0627", "Ur_Country": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"},
+
+{"City": "Chennai (Madras)", "Country": "India", "Ur_City": "\u0686\u0646\u0626\u06cc (\u0645\u062f\u0631\u0627\u0633)", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "DHAKA", "Country": "Bangladesh", "Ur_City": "DHAKA", "Ur_Country": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634\u06cc"},
+
+{"City": "Essen", "Country": "Germany", "Ur_City": "\u06a9\u06be\u0627\u0646\u06d2", "Ur_Country": "\u062c\u0631\u0645\u0646\u06cc"},
+
+{"City": "Tianjin (Tientsin)", "Country": "China", "Ur_City": "\u062a\u06cc\u0627\u0646\u062c\u0646 (Tientsin)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "HONG KONG", "Country": "China - Hong Kong", "Ur_City": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646 - \u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"},
+
+{"City": "Taipei", "Country": "Taiwan (China ROC)", "Ur_City": "\u062a\u0627\u0626\u067e\u06cc", "Ur_Country": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646 (\u0686\u06cc\u0646 ROC)"},
+
+{"City": "Ho Chi Minh City (Saigon)", "Country": "Viet Nam", "Ur_City": "\u06c1\u0648 \u0686\u06cc \u0645\u0646\u06c1 \u0634\u06c1\u0631 (\u0633\u06cc\u06af\u0648\u0646)", "Ur_Country": "\u0648\u06cc\u062a\u0646\u0627\u0645"},
+
+{"City": "Bangalore", "Country": "India", "Ur_City": "\u0628\u0646\u06af\u0644\u0648\u0631", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Hyderabad", "Country": "India", "Ur_City": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Johannesburg", "Country": "South Africa", "Ur_City": "\u062c\u0648\u06c1\u06cc\u0646\u0628\u0631\u06af", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u06c1"},
+
+{"City": "BAGHDAD", "Country": "Iraq", "Ur_City": "\u0628\u06cc\u062c\u0688\u0688\u0688", "Ur_Country": "\u0639\u0631\u0627\u0642"},
+
+{"City": "Toronto", "Country": "Canada", "Ur_City": "\u0679\u0648\u0631\u0646\u0679\u0648", "Ur_Country": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"},
+
+{"City": "SANTIAGO", "Country": "Chile", "Ur_City": "\u0633\u0646\u0679\u06cc\u06af\u06cc\u0648", "Ur_Country": "\u0686\u0644\u06cc"},
+
+{"City": "KUALA LUMPUR", "Country": "Malaysia", "Ur_City": "\u06a9\u0648\u0644\u0627 \u0644\u0627\u0644\u0645\u0631", "Ur_Country": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"},
+
+{"City": "San Francisco (CA)", "Country": "United States", "Ur_City": "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648 (CA)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Philadelphia (PA)", "Country": "United States", "Ur_City": "\u0641\u0644\u0627\u0688\u06cc\u0644\u0641\u06cc\u0627 (PA)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Wuhan", "Country": "China", "Ur_City": "\u0648\u06c1\u0627\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Miami (FL)", "Country": "United States", "Ur_City": "\u0645\u06cc\u0627\u0645\u06cc (FL)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Dallas (TX)", "Country": "United States", "Ur_City": "\u062f\u0648\u0644\u0633 (TX)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "MADRID", "Country": "Spain", "Ur_City": "\u0645\u062f\u0631\u0627\u0688", "Ur_Country": "\u0633\u067e\u06cc\u0646"},
+
+{"City": "Ahmedabad", "Country": "India", "Ur_City": "\u0627\u062d\u0645\u062f \u0622\u0628\u0627\u062f", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Boston (MA)", "Country": "United States", "Ur_City": "\u0628\u0648\u0633\u0679\u0646 (\u0627\u06cc\u0645 \u0627\u06d2)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Belo Horizonte", "Country": "Brazil", "Ur_City": "\u0628\u06cc\u0644\u0648 Horizonte", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "KHARTOUM", "Country": "Sudan", "Ur_City": "KHARTOUM", "Ur_Country": "\u0633\u0648\u0688\u0627\u0646"},
+
+{"City": "Saint Petersburg (Leningrad)", "Country": "Russia", "Ur_City": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631\u0632\u0628\u0631\u06af (\u0644\u06cc\u0646\u0646\u0633\u0679\u0631\u0688)", "Ur_Country": "\u0631\u0648\u0633"},
+
+{"City": "Shenyang", "Country": "China", "Ur_City": "\u0634\u06cc\u0646\u0627\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Houston (TX)", "Country": "United States", "Ur_City": "\u06c1\u06cc\u0648\u0633\u0679\u0646 (TX)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Pune", "Country": "India", "Ur_City": "\u0688\u0627\u0644", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "RIYADH", "Country": "Saudi Arabia", "Ur_City": "\u0631\u0627\u0626\u06cc\u0688", "Ur_Country": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
+
+{"City": "SINGAPORE", "Country": "Singapore", "Ur_City": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631", "Ur_Country": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"},
+
+{"City": "WASHINGTON (DC)", "Country": "United States", "Ur_City": "\u0648\u0627\u0634\u0646\u06af\u0679\u0646 \u0688\u06cc \u0633\u06cc)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Yangon ", "Country": "Myanmar", "Ur_City": "\u06cc\u0627\u0646\u06af\u0648\u0646", "Ur_Country": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"},
+
+{"City": "Milan (Milano)", "Country": "Italy", "Ur_City": "\u0645\u06cc\u0644\u0627\u0646 (\u0645\u06cc\u0644\u0627\u0646)", "Ur_Country": "\u0627\u0679\u0644\u06cc"},
+
+{"City": "Atlanta (GA)", "Country": "United States", "Ur_City": "\u0627\u0679\u0644\u0627\u0646\u0679\u0627 (GA)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Chongqing", "Country": "China", "Ur_City": "\u0686\u0627\u0646\u06af\u0642\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Alexandria", "Country": "Egypt", "Ur_City": "\u0627\u0644\u06cc\u06a9\u0634\u0646\u06cc\u0627", "Ur_Country": "\u0645\u0635\u0631"},
+
+{"City": "Nanjing (Nanking) ", "Country": "China", "Ur_City": "\u0646\u0627\u0646\u062c\u0646\u06af (\u0646\u06cc\u0646\u06a9)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Guadalajara", "Country": "Mexico", "Ur_City": "\u06af\u0648\u0688\u0627\u0644\u062c\u0627\u0631\u0627", "Ur_Country": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
+
+{"City": "Barcelona", "Country": "Spain", "Ur_City": "\u0628\u0627\u0631\u0633\u0644\u0648\u0646\u0627", "Ur_Country": "\u0633\u067e\u06cc\u0646"},
+
+{"City": "Chengdu", "Country": "China", "Ur_City": "\u0686\u0646\u06af\u062f\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Detroit (MI)", "Country": "United States", "Ur_City": "\u0688\u0627\u0679\u0631\u0648\u0679 (\u06c1\u0645)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "ANKARA", "Country": "Turkey", "Ur_City": "\u0627\u0646\u0642\u0631\u06c1", "Ur_Country": "\u062a\u0631\u06a9\u06cc"},
+
+{"City": "Abidjan", "Country": "C\u00f4te d'Ivoire", "Ur_City": "\u0639\u0627\u0628\u062f \u062c\u0627\u0646", "Ur_Country": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"},
+
+{"City": "ATHENS", "Country": "Greece", "Ur_City": "\u0627\u06cc\u062a\u06be\u06cc\u0646\u0633", "Ur_Country": "\u06cc\u0648\u0646\u0627\u0646"},
+
+{"City": "BERLIN", "Country": "Germany", "Ur_City": "BERLIN", "Ur_Country": "\u062c\u0631\u0645\u0646\u06cc"},
+
+{"City": "Sydney", "Country": "Australia", "Ur_City": "\u0633\u0688\u0646\u06cc", "Ur_Country": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
+
+{"City": "Monterrey", "Country": "Mexico", "Ur_City": "\u0645\u0648\u0646\u0679\u0631\u0631\u06cc", "Ur_Country": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
+
+{"City": "Phoenix (AZ)", "Country": "United States", "Ur_City": "\u0641\u06cc\u0646\u06a9\u0633 (\u0627\u06d2 \u0622\u0631)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Busan (Pusan)", "Country": "South Korea", "Ur_City": "\u0628\u0633\u0627\u0646 (\u067e\u0648\u0633\u0627\u0646)", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "Recife", "Country": "Brazil", "Ur_City": "\u0631\u06cc \u0633\u0627\u0626\u06cc\u06a9\u0644", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Bandung", "Country": "Indonesia", "Ur_City": "\u0628\u06cc\u0646\u0688\u0646\u06af", "Ur_Country": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
+
+{"City": "Porto Alegre", "Country": "Brazil", "Ur_City": "\u067e\u0648\u0631\u0679\u0648 \u0627\u06cc\u0644\u06af\u0631", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Melbourne", "Country": "Australia", "Ur_City": "\u0645\u06cc\u0644\u0628\u0648\u0631\u0646", "Ur_Country": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
+
+{"City": "LUANDA", "Country": "Angola", "Ur_City": "LUANDA", "Ur_Country": "\u0627\u0646\u06af\u0648\u0644\u0627"},
+
+{"City": "Hangzhou (Hangchow) ", "Country": "China", "Ur_City": "\u06c1\u0627\u0646\u06af\u062c\u0648 (\u06c1\u0627\u0646\u06af\u0686\u0648)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "ALGIERS", "Country": "Algeria", "Ur_City": "ALGIERS", "Ur_Country": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"},
+
+{"City": "H\u00e0 Noi (HANOI)", "Country": "Viet Nam", "Ur_City": "\u06c1\u0646\u0648\u0626\u06cc (\u06c1\u0646\u0648\u0626\u06cc)", "Ur_Country": "\u0648\u06cc\u062a\u0646\u0627\u0645"},
+
+{"City": "Montr\u00e9al", "Country": "Canada", "Ur_City": "\u0645\u0648\u0646\u0679\u0631\u06cc\u0627\u0644", "Ur_Country": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"},
+
+{"City": "Xi'an (Sian) ", "Country": "China", "Ur_City": "\u0627\u06cc\u06a9\u0633 \u0627\u06cc\u0627\u0646 (\u0633\u0627\u06cc\u0646)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "PYONGYANG", "Country": "North Korea", "Ur_City": "PYONGYANG", "Ur_Country": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "Qingdao (Tsingtao) ", "Country": "China", "Ur_City": "\u0686\u0646\u06af\u06be\u0627\u0626\u06cc (ts ing \u4e36)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Surat", "Country": "India", "Ur_City": "\u062e\u0637", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Fortaleza", "Country": "Brazil", "Ur_City": "\u0641\u0648\u0631\u0679\u06cc\u0644\u06cc\u0632\u0627", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Medell\u00edn", "Country": "Colombia", "Ur_City": "\u0645\u06cc\u0688\u06cc\u0644\u0646", "Ur_Country": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"},
+
+{"City": "Durban", "Country": "South Africa", "Ur_City": "\u062f\u0631\u0628\u0627\u0646", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u06c1"},
+
+{"City": "Kanpur", "Country": "India", "Ur_City": "Kanpur", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "ADDIS ABABA", "Country": "Ethiopia", "Ur_City": "ADABIS ADABIS", "Ur_Country": "\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627"},
+
+{"City": "NAIROBI", "Country": "Kenya", "Ur_City": "\u0646\u06cc\u0631\u0648\u0628\u06cc", "Ur_Country": "\u06a9\u06cc\u0646\u06cc\u0627"},
+
+{"City": "Jeddah (Jiddah)", "Country": "Saudi Arabia", "Ur_City": "\u062c\u062f\u06c1 (\u0627\u0686\u06be\u0627)", "Ur_Country": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
+
+{"City": "Naples (Napoli)", "Country": "Italy", "Ur_City": "\u0646\u06cc\u067e\u0644\u0633 (\u0646\u06cc\u067e\u0644\u0633)", "Ur_Country": "\u0627\u0679\u0644\u06cc"},
+
+{"City": "KABUL", "Country": "Afghanistan", "Ur_City": "\u062f\u0627\u062e\u0644\u06c1", "Ur_Country": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"},
+
+{"City": "Salvador", "Country": "Brazil", "Ur_City": "\u0633\u0644\u0648\u0627\u0688\u0648\u0631", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Harbin (Haerbin)", "Country": "China", "Ur_City": "\u06c1\u0627\u0631\u0628\u0646 (\u06c1\u0627\u0631\u0628\u0646)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Kano", "Country": "Nigeria", "Ur_City": "\u06cc\u06c1 \u062a\u06be\u0627", "Ur_Country": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"},
+
+{"City": "Casablanca (Dar-el-Beida)", "Country": "Morocco", "Ur_City": "\u06a9\u06cc\u0633\u0627\u0627\u0628\u0644\u0627\u0646\u06a9\u0627 (\u062f\u0627\u0631\u0627\u0644\u0642\u062f\u06c1)", "Ur_Country": "\u0645\u0631\u0627\u06a9\u0634"},
+
+{"City": "CAPE TOWN", "Country": "South Africa", "Ur_City": "\u06a9\u06cc\u067e \u0679\u0627\u0624\u0646", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u06c1"},
+
+{"City": "Curitiba", "Country": "Brazil", "Ur_City": "Curitiba", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Surabaya", "Country": "Indonesia", "Ur_City": "\u0633\u0648\u0631\u0627\u0628\u0627\u06cc\u0627", "Ur_Country": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
+
+{"City": "San Diego (CA)", "Country": "United States", "Ur_City": "\u0633\u0627\u0646 \u0688\u06cc\u0627\u06af\u0648 (CA)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Seattle (WA)", "Country": "United States", "Ur_City": "\u0633\u06cc\u0679\u0644 (\u0648\u06c1)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "ROME", "Country": "Italy", "Ur_City": "\u0631\u0648\u0645", "Ur_Country": "\u0627\u0679\u0644\u06cc"},
+
+{"City": "Dar es Salaam", "Country": "Tanzania", "Ur_City": "\u0688\u0627\u0631 \u0627\u06cc\u0633 \u0633\u0644\u0627\u0645", "Ur_Country": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1"},
+
+{"City": "Taichung", "Country": "China", "Ur_City": "Taichung", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Jaipur", "Country": "India", "Ur_City": "\u062c\u06d2 \u067e\u0648\u0631", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "CARACAS", "Country": "Venezuela", "Ur_City": "CARACAS", "Ur_Country": "\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627"},
+
+{"City": "DAKAR", "Country": "Senegal", "Ur_City": "DAKAR", "Ur_Country": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"},
+
+{"City": "Kaohsiung", "Country": "China", "Ur_City": "\u06a9\u0627\u06c1\u0633\u0646\u06af\u0648\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Minneapolis (MN)", "Country": "United States", "Ur_City": "\u0645\u0646\u067e\u0648\u0644\u0633 (\u0633\u06d2)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Lucknow", "Country": "India", "Ur_City": "\u0644\u06a9\u06be\u0646\u0624", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "AMMAN", "Country": "Jordan", "Ur_City": "AMMAN", "Ur_Country": "\u0627\u0631\u062f\u0646"},
+
+{"City": "Tel Aviv-Yafo", "Country": "Israel", "Ur_City": "\u062a\u06cc\u0644\u06cc \u0627\u06cc\u0648\u06cc\u0648- \u06cc\u0641\u0648", "Ur_Country": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"},
+
+{"City": "Guayaquil", "Country": "Ecuador", "Ur_City": "Guayaquil", "Ur_Country": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"},
+
+{"City": "KYIV (KIEV)", "Country": "Ukraine", "Ur_City": "KYIV (KEV)", "Ur_Country": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"},
+
+{"City": "Mashhad", "Country": "Iran", "Ur_City": "\u0645\u0634\u0634\u0627\u062f", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "Izmir", "Country": "Turkey", "Ur_City": "\u0627\u0632\u0645\u06cc\u0631", "Ur_Country": "\u062a\u0631\u06a9\u06cc"},
+
+{"City": "TASHKENT", "Country": "Uzbekistan", "Ur_City": "\u062a\u0627\u0634\u0642\u0646\u062f", "Ur_Country": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"},
+
+{"City": "Katowice", "Country": "Poland", "Ur_City": "\u06a9\u06cc\u0679\u0648\u0648\u06cc\u0633", "Ur_Country": "\u067e\u0648\u0644\u06cc\u0646\u0688"},
+
+{"City": "Changchun", "Country": "China", "Ur_City": "\u0686\u0627\u0646\u06af\u0686\u0648\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Campinas", "Country": "Brazil", "Ur_City": "\u06a9\u06cc\u0645\u067e\u06cc\u0646\u0627\u0633", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Daegu (Taegu)", "Country": "South Korea", "Ur_City": "Daegu (Taegu)", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "Changsha", "Country": "China", "Ur_City": "\u0686\u0627\u0646\u06af\u0634\u0627", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Nagpur", "Country": "India", "Ur_City": "\u0646\u0627\u06af\u067e\u0648\u0631", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "San Juan", "Country": "Philippines", "Ur_City": "\u0633\u0627\u0646 \u062c\u0648\u0622\u0646", "Ur_Country": "\u0641\u0644\u067e\u0627\u0626\u0646"},
+
+{"City": "Aleppo", "Country": "Syria", "Ur_City": "\u062d\u0644\u0628", "Ur_Country": "\u0634\u0627\u0645"},
+
+{"City": "LISBON", "Country": "Portugal", "Ur_City": "\u0644\u06cc\u0633\u0646", "Ur_Country": "\u067e\u0631\u062a\u06af\u0627\u0644"},
+
+{"City": "Frankfurt am Main", "Country": "Germany", "Ur_City": "\u0641\u0631\u06cc\u0646\u06a9\u0641\u0631\u0679 \u0645\u06cc\u0646 \u0645\u06cc\u0646", "Ur_Country": "\u062c\u0631\u0645\u0646\u06cc"},
+
+{"City": "Nanchang", "Country": "China", "Ur_City": "Nanchang", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Birmingham[] ", "Country": "United Kingdom", "Ur_City": "\u0628\u0631\u0645\u0646\u06af\u06be\u0645 []", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0633\u0644\u0637\u0646\u062a \u06cc\u0648\u0646\u0627\u0626\u06cc\u0679\u0688 \u06a9\u0646\u06af\u0688\u0645"},
+
+{"City": "Tampa (FL)", "Country": "United States", "Ur_City": "\u062a\u0627\u067e\u0627 (FL)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Medan", "Country": "Indonesia", "Ur_City": "\u0645\u062f\u0627\u0646", "Ur_Country": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
+
+{"City": "Dalian", "Country": "China", "Ur_City": "Dalian", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "TUNIS", "Country": "Tunisia", "Ur_City": "\u062a\u06cc\u0648\u0646\u0633", "Ur_Country": "\u062a\u06cc\u0648\u0646\u0633"},
+
+{"City": "Shijiazhuang", "Country": "China", "Ur_City": "\u0634\u06cc\u062c\u06cc\u0627\u062c\u06c1\u06af\u0648\u0627\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Manchester", "Country": "United Kingdom", "Ur_City": "\u0645\u0627\u0646\u0686\u0633\u0679\u0631", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0633\u0644\u0637\u0646\u062a \u06cc\u0648\u0646\u0627\u0626\u06cc\u0679\u0688 \u06a9\u0646\u06af\u0688\u0645"},
+
+{"City": "PORT-AU-PRINCE", "Country": "Haiti", "Ur_City": "\u067e\u0648\u0631\u0679 \u0627\u0648 \u067e\u0631\u0646\u0633", "Ur_Country": "\u06c1\u06cc\u0679\u06cc"},
+
+{"City": "DAMASCUS", "Country": "Syria", "Ur_City": "\u0688\u06cc\u0645\u0627\u0633\u06a9", "Ur_Country": "\u0634\u0627\u0645"},
+
+{"City": "Ji'nan", "Country": "China", "Ur_City": "\u062c\u0646\u0627\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Fukuoka", "Country": "Japan", "Ur_City": "\u0641\u0648\u06a9\u0648\u06a9\u0627", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "SANTO DOMINGO", "Country": "Dominican Republic", "Ur_City": "\u0633\u0627\u0646\u062a\u0648 \u0688\u0648\u0645\u0648\u0646\u06af", "Ur_Country": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646 \u0631\u06cc\u067e\u0628\u0644\u06a9"},
+
+{"City": "HAVANA", "Country": "Cuba", "Ur_City": "\u06c1\u0627\u0646\u0627", "Ur_Country": "\u06a9\u06cc\u0648\u0628\u0627"},
+
+{"City": "Cali", "Country": "Colombia", "Ur_City": "\u0639\u0644\u06cc", "Ur_Country": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"},
+
+{"City": "Denver (CO)", "Country": "United States", "Ur_City": "\u0688\u06cc\u0646\u0648\u0631 (CO)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "St. Louis (MO)", "Country": "United States", "Ur_City": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0626\u0633 (MO)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Colombo", "Country": "Brazil", "Ur_City": "\u06a9\u0648\u0644\u0645\u0628\u0648", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Dubai", "Country": "United Arab Emirates", "Ur_City": "\u062f\u0628\u0626\u06cc", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"},
+
+{"City": "Baltimore (MD)", "Country": "United States", "Ur_City": "\u0628\u0627\u0644\u0679\u06cc\u0645\u0648\u0631 (\u0627\u06cc\u0645 \u0688\u06cc)", "Ur_Country": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u06c1"},
+
+{"City": "Sapporo", "Country": "Japan", "Ur_City": "Sapporo", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "Rotterdam", "Country": "Netherlands", "Ur_City": "\u0631\u0648\u0679\u0631\u0688\u06cc\u0645", "Ur_Country": "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"},
+
+{"City": "Vancouver", "Country": "Canada", "Ur_City": "\u0648\u06cc\u0646\u06a9\u0648\u0648\u0631", "Ur_Country": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"},
+
+{"City": "Preston", "Country": "United Kingdom", "Ur_City": "\u067e\u0631\u06cc\u0633\u0646", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0633\u0644\u0637\u0646\u062a \u06cc\u0648\u0646\u0627\u0626\u06cc\u0679\u0688 \u06a9\u0646\u06af\u0688\u0645"},
+
+{"City": "Patna", "Country": "India", "Ur_City": "\u067e\u0679\u0646\u06c1", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "SANA'A", "Country": "Yemen", "Ur_City": "\u0635\u0646\u0639\u0627\u0621", "Ur_Country": "\u06cc\u0645\u0646"},
+
+{"City": "WARSAW", "Country": "Poland", "Ur_City": "\u0648\u0627\u0631\u0633\u0627", "Ur_Country": "\u067e\u0648\u0644\u06cc\u0646\u0688"},
+
+{"City": "Bonn", "Country": "Germany", "Ur_City": "\u0628\u0648\u0646", "Ur_Country": "\u062c\u0631\u0645\u0646\u06cc"},
+
+{"City": "ACCRA", "Country": "Ghana", "Ur_City": "ACCRA", "Ur_Country": "\u06af\u06be\u0627\u0646\u0627"},
+
+{"City": "BUCHAREST", "Country": "Romania", "Ur_City": "\u0628\u0648\u0686\u0627\u0631\u0633\u0679", "Ur_Country": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"},
+
+{"City": "Yokohama", "Country": "Japan", "Ur_City": "\u06cc\u0648\u06a9\u0648\u06c1\u0627\u0645\u0627", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "Kunming", "Country": "China", "Ur_City": "\u06a9\u0646\u0646\u06af\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Guiyang", "Country": "China", "Ur_City": "\u06af\u0648\u06cc\u0627\u0627\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Zibo", "Country": "China", "Ur_City": "\u0632\u0628\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Incheon", "Country": "South Korea", "Ur_City": "\u0627\u0646\u0686\u0648", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "Zhengzhou", "Country": "China", "Ur_City": "\u062c\u06cc\u0646\u062c\u062c\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Taiyuan", "Country": "China", "Ur_City": "\u062a\u06cc\u06cc\u0648\u0627\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Chaoyang (Guangdong)", "Country": "China", "Ur_City": "\u0633\u06cc \u0627\u0686\u06be\u0627 \u06c1\u06d2 (\u062c\u06cc \u06a9\u06cc\u0633 \u062c\u06cc \u0639\u0645\u0627\u0631\u062a)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "BRASILIA", "Country": "Brazil", "Ur_City": "\u0628\u0631\u0627\u0632\u06cc\u0644", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Zhongshan", "Country": "China", "Ur_City": "Zhongshan", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "West Midlands", "Country": "United Kingdom", "Ur_City": "\u0645\u063a\u0631\u0628 \u0645\u0688\u0644\u06cc\u0646\u0688\u0632", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0633\u0644\u0637\u0646\u062a \u06cc\u0648\u0646\u0627\u0626\u06cc\u0679\u0688 \u06a9\u0646\u06af\u0688\u0645"},
+
+{"City": "Giza", "Country": "Egypt", "Ur_City": "\u0627\u0646\u0633\u0627\u0646\u06cc", "Ur_Country": "\u0645\u0635\u0631"},
+
+{"City": "Quezon City", "Country": "Philippines", "Ur_City": "\u06a9\u0648\u0632\u0648\u0646 \u0634\u06c1\u0631", "Ur_Country": "\u0641\u0644\u067e\u0627\u0626\u0646"},
+
+{"City": "Nanhai", "Country": "China", "Ur_City": "NaN \u0633\u0645\u0646\u062f\u0631", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Fuzhou (Fujian)", "Country": "China", "Ur_City": "F U \u0645\u062d\u0648\u0631 (F U Key)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Lanzhou", "Country": "China", "Ur_City": "\u0644\u0627\u0646\u0632\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Xiamen", "Country": "China", "Ur_City": "\u0632\u0627\u0645\u06cc\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Chittagong", "Country": "Bangladesh", "Ur_City": "Chittagong", "Ur_Country": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634\u06cc"},
+
+{"City": "Zaozhuang", "Country": "China", "Ur_City": "\u0632 \u0627\u0648 \u0627\u06d2 \u0634\u06a9\u0644", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Jilin", "Country": "China", "Ur_City": "\u062c\u06cc\u0644\u06cc\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Linyi", "Country": "China", "Ur_City": "\u0644\u06cc\u0646\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Wenzhou", "Country": "China", "Ur_City": "\u0648\u06cc\u0646\u0632\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "STOCKHOLM", "Country": "Sweden", "Ur_City": "\u0627\u0633\u0679\u0627\u06a9 \u06c1\u0648\u0645", "Ur_Country": "\u0633\u0648\u06cc\u0688\u0646"},
+
+{"City": "Puebla de Zaragoza", "Country": "Mexico", "Ur_City": "Puebla de Zaragoza", "Ur_Country": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
+
+{"City": "Puning", "Country": "China", "Ur_City": "\u067e\u0646\u062c\u0627\u0628 \u06cc\u0648\u0646\u06cc\u0648\u0631\u0633\u0679\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "BAKU", "Country": "Azerbaijan", "Ur_City": "BAKU", "Ur_Country": "\u0622\u0632\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"},
+
+{"City": "Ibadan", "Country": "Nigeria", "Ur_City": "\u0627\u0628\u0631\u0627\u06c1\u06cc\u0645", "Ur_Country": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"},
+
+{"City": "Brisbane", "Country": "Australia", "Ur_City": "\u0628\u0631\u06cc\u0633\u0646", "Ur_Country": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
+
+{"City": "MINSK", "Country": "Belarus", "Ur_City": "MINSK", "Ur_Country": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633"},
+
+{"City": "Sikasso", "Country": "Mali", "Ur_City": "Sikasso", "Ur_Country": "\u0645\u0627\u0644\u06cc"},
+
+{"City": "Nanchong", "Country": "China", "Ur_City": "\u0646\u0627\u0646\u0686\u0648\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Nanning", "Country": "China", "Ur_City": "\u0646\u0627\u0646\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Urumqi", "Country": "China", "Ur_City": "\u0627\u0631\u0645\u06a9\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Yantai", "Country": "China", "Ur_City": "Yantai", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Fuyang (Zhejiang)", "Country": "China", "Ur_City": "F U \u06a9\u06cc \u0637\u0631\u062d (Z \u0627\u0648\u0631 \u0627\u062f\u0631\u06a9)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Tangshan", "Country": "China", "Ur_City": "\u062a\u0627\u0646\u06af\u0634\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Maracaibo", "Country": "Venezuela", "Ur_City": "Maracaibo", "Ur_Country": "\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627"},
+
+{"City": "Hamburg", "Country": "Germany", "Ur_City": "\u06c1\u06cc\u0645\u0628\u0631\u06af", "Ur_Country": "\u062c\u0631\u0645\u0646\u06cc"},
+
+{"City": "BUDAPEST", "Country": "Hungary", "Ur_City": "BUDAPEST", "Ur_Country": "\u06c1\u0646\u06af\u0631\u06cc"},
+
+{"City": "Shunde", "Country": "China", "Ur_City": "\u06af\u0648\u0644\u06cc \u0645\u0627\u0631 \u062f\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Manaus", "Country": "Brazil", "Ur_City": "\u0645\u0646\u0648\u0633", "Ur_Country": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
+
+{"City": "Xuzhou", "Country": "China", "Ur_City": "\u0632\u0632\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "S\u00e9gou", "Country": "Mali", "Ur_City": "Segou", "Ur_Country": "\u0645\u0627\u0644\u06cc"},
+
+{"City": "Baotou", "Country": "China", "Ur_City": "Baotou", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Hefei", "Country": "China", "Ur_City": "\u06c1\u06cc\u0641\u06cc", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "VIENNA", "Country": "Austria", "Ur_City": "\u0648\u06cc\u06cc\u0646\u0627", "Ur_Country": "\u0622\u0633\u0679\u0631\u06cc\u0627"},
+
+{"City": "Indore", "Country": "India", "Ur_City": "\u0627\u0646\u062f\u0648\u0631", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "ASUNCION", "Country": "Paraguay", "Ur_City": "ASUNCION", "Ur_Country": "\u067e\u06cc\u0631\u0627\u06af\u06d2"},
+
+{"City": "Tianmen", "Country": "China", "Ur_City": "\u062a\u06cc\u0627\u0646\u0645\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "BELGRADE", "Country": "Serbia", "Ur_City": "\u0628\u06cc\u0644\u062c\u0631\u06cc\u0688", "Ur_Country": "\u0633\u0631\u0628\u06cc\u0627"},
+
+{"City": "Suzhou (Anhui)", "Country": "China", "Ur_City": "\u0633\u0648\u0632\u0648 (\u0622\u067e \u06a9\u0631\u0648\u06ba \u06af\u0627)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Suizhou", "Country": "China", "Ur_City": "Suizhou", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Nanyang", "Country": "China", "Ur_City": "\u0646\u0627\u0646\u0627\u0646\u06af", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Nakuru", "Country": "Kenya", "Ur_City": "\u0646\u0627\u06a9\u0648\u0631\u0627", "Ur_Country": "\u06a9\u06cc\u0646\u06cc\u0627"},
+
+{"City": "Koulikoro", "Country": "Mali", "Ur_City": "\u06a9\u0648\u06a9\u0648\u0644\u06cc\u06a9\u0648", "Ur_Country": "\u0645\u0627\u0644\u06cc"},
+
+{"City": "Ningbo", "Country": "China", "Ur_City": "\u0646\u0646\u06af\u0628\u0648", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Liuan", "Country": "China", "Ur_City": "\u0627\u06cc\u0644 \u0622\u0626\u06cc \u0627\u0648 \u067e\u0631\u06cc\u0633", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Anshan", "Country": "China", "Ur_City": "\u0627\u0646\u0634\u0646", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Tengzhou", "Country": "China", "Ur_City": "Tengzhou", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Qiqihaer", "Country": "China", "Ur_City": "Qiqihaer", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Pizhou", "Country": "China", "Ur_City": "\u067e\u06cc \u067e\u06cc \u06c1\u0641\u062a\u06c1", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Taian", "Country": "China", "Ur_City": "\u062a\u0627\u0626 \u067e\u0631\u06cc\u0633", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Datong", "Country": "China", "Ur_City": "\u0688\u06cc \u0627\u06d2 \u06a9\u06d2 \u0633\u0627\u062a\u06be", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Kobe", "Country": "Japan", "Ur_City": "\u06a9\u0648\u0628\u06cc", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "Hama", "Country": "Syria", "Ur_City": "\u0627\u06c1\u0645", "Ur_Country": "\u0634\u0627\u0645"},
+
+{"City": "Esfahan", "Country": "Iran", "Ur_City": "Esfahan", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "TRIPOLI", "Country": "Libya", "Ur_City": "\u0679\u0631\u067e\u0644\u0648\u0644\u0648", "Ur_Country": "\u0644\u06cc\u0628\u06cc\u0627"},
+
+{"City": "West Yorkshire", "Country": "United Kingdom", "Ur_City": "\u0645\u063a\u0631\u0628\u06cc \u06cc\u0627\u0631\u06a9\u0634\u0627\u0626\u0631", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0633\u0644\u0637\u0646\u062a \u06cc\u0648\u0646\u0627\u0626\u06cc\u0679\u0688 \u06a9\u0646\u06af\u0688\u0645"},
+
+{"City": "Vadodara", "Country": "India", "Ur_City": "\u0648\u0648\u0688\u0648\u062f\u0627\u0631\u0627", "Ur_Country": "\u0628\u06be\u0627\u0631\u062a"},
+
+{"City": "Taizhou (Zhejiang)", "Country": "China", "Ur_City": "Taizhou (Z \u0627\u0648\u0631 \u062c\u06cc\u0627\u0646\u06af)", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Luoyang", "Country": "China", "Ur_City": "Luoyang", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "QUITO", "Country": "Ecuador", "Ur_City": "QUITO", "Ur_Country": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"},
+
+{"City": "Jinjiang", "Country": "China", "Ur_City": "\u062c\u06cc\u0646 \u06af\u06d2", "Ur_Country": "\u0686\u06cc\u0646"},
+
+{"City": "Mopti", "Country": "Mali", "Ur_City": "Mopti", "Ur_Country": "\u0645\u0627\u0644\u06cc"},
+
+{"City": "Perth", "Country": "Australia", "Ur_City": "\u067e\u06cc\u0679\u06cc", "Ur_Country": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
+
+{"City": "Daejeon (Taejon)", "Country": "South Korea", "Ur_City": "Daejeon (Taejon)", "Ur_Country": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
+
+{"City": "Kyoto", "Country": "Japan", "Ur_City": "\u06a9\u06cc\u0648\u0679\u0648", "Ur_Country": "\u062c\u0627\u067e\u0627\u0646"},
+
+{"City": "Beirut", "Country": "Lebanon", "Ur_City": "\u0628\u06cc\u0631\u0648\u062a", "Ur_Country": "\u0644\u0628\u0646\u0627\u0646"},
+
+{"City": "Abu Dhabi", "Country": "United Arab Emirates", "Ur_City": "\u0627\u0628\u0648 \u0638\u0628\u06cc", "Ur_Country": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"},
+
+{"City": "Kuwait", "Country": "Kuwait", "Ur_City": "\u06a9\u0648\u06cc\u062a", "Ur_Country": "\u06a9\u0648\u06cc\u062a"},
+
+{"City": "Mecca", "Country": "Saudi Arabia", "Ur_City": "\u0645\u06a9\u06c1", "Ur_Country": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
+
+{"City": "Jerusalem", "Country": "Palestine", "Ur_City": "\u06cc\u0631\u0648\u0634\u0644\u0645", "Ur_Country": "\u0641\u0644\u0633\u0637\u06cc\u0646"},
+
+{"City": "Jeddah", "Country": "Saudi Arabia", "Ur_City": "\u062c\u062f\u06c1", "Ur_Country": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
+
+{"City": "Doha", "Country": "Qatar", "Ur_City": "\u062f\u0648\u062d\u06c1", "Ur_Country": "\u0642\u0637\u0631"},
+
+{"City": "Muscat", "Country": "Oman", "Ur_City": "\u0645\u0633\u0642\u0637", "Ur_Country": "\u0639\u0645\u0627\u0646"},
+
+{"City": "Isfahan", "Country": "Iran", "Ur_City": "\u0627\u0635\u0641\u06c1\u0627\u0646", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "Manama", "Country": "Bahrain", "Ur_City": "\u0645\u0646\u0627\u0645\u06c1", "Ur_Country": "\u0628\u062d\u0631\u06cc\u0646"},
+
+{"City": "Madinah", "Country": "Saudi Arabia", "Ur_City": "\u0645\u062f\u06cc\u0646\u06c1", "Ur_Country": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
+
+{"City": "Shiraz", "Country": "Iran", "Ur_City": "\u0634\u06cc\u0631\u0627\u0632", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "Mashhad", "Country": "Iran", "Ur_City": "\u0645\u0634\u06c1\u062f", "Ur_Country": "\u0627\u06cc\u0631\u0627\u0646"},
+
+{"City": "Izmir", "Country": "Turkey", "Ur_City": "\u0627\u0632\u0645\u06cc\u0631", "Ur_Country": "\u062a\u0631\u06a9\u06cc"},
+
+{"City": "Basra", "Country": "Iraq", "Ur_City": "\u0628\u0635\u0631\u06c1", "Ur_Country": "\u0639\u0631\u0627\u0642"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062f\u0627\u062f\u0648", "City": "Dadu"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06af\u06be\u0648\u0679\u06a9\u06cc", "City": "Ghotki"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f", "City": "Hyderabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u06cc\u06a9\u0628 \u0622\u0628\u0627\u062f", "City": "Jacobabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u0627\u0645\u0634\u0648\u0631\u0648", "City": "Jamshoro"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0631\u0627\u0686\u06cc", "City": "Karachi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0634\u0645\u0648\u0631", "City": "Kashmore"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062e\u06cc\u0631\u067e\u0648\u0631", "City": "Khairpur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u0627\u0691\u06a9\u0627\u0646\u06c1", "City": "Larkana"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0679\u06cc\u0627\u0631\u06cc", "City": "Matiari"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u06cc\u0631\u067e\u0648\u0631 \u062e\u0627\u0635", "City": "Mirpur Khas"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0648\u0634\u06c1\u0631\u0648 \u0641\u06cc\u0631\u0648\u0632", "City": "Naushahro Firoze"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0648\u0627\u0628\u0634\u0627\u06c1", "City": "Nawabshah"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0642\u0645\u0628\u0631-\u0634\u06c1\u062f\u0627\u062f\u06a9\u0648\u0679", "City": "Qambar Shahdadkot"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u0627\u0646\u06af\u06be\u0691", "City": "Sanghar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0634\u06a9\u0627\u0631\u067e\u0648\u0631", "City": "Shikarpur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u06a9\u06be\u0631", "City": "Sukkur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0679\u0646\u0688\u0648 \u0627\u0644\u06c1 \u06cc\u0627\u0631", "City": "Tando Allahyar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0679\u0646\u0688\u0648 \u0645\u062d\u0645\u062f \u062e\u0627\u0646", "City": "Tando Muhammad Khan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062a\u06be\u0631\u067e\u0627\u0631\u06a9\u0631", "City": "Tharparkar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0679\u06be\u0679\u06c1", "City": "Thatta"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0639\u0645\u0631\u06a9\u0648\u0679", "City": "Umerkot"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u062c\u0627\u0648\u0644", "City": "Sujawal"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0644\u06cc\u0631", "City": "Malir"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0627\u0679\u06a9", "City": "Attock"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631", "City": "Bahawalnagar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631", "City": "Bahawalpur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u06be\u06a9\u0631", "City": "Bhakkar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0686\u06a9\u0648\u0627\u0644", "City": "Chakwal"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0686\u0646\u06cc\u0648\u0679", "City": "Chiniot"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0688\u06cc\u0631\u06c1 \u063a\u0627\u0632\u06cc \u062e\u0627\u0646", "City": "Dera Ghazi Khan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0641\u06cc\u0635\u0644 \u0622\u0628\u0627\u062f", "City": "Faisalabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06af\u0648\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u06c1", "City": "Gujranwala"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06af\u062c\u0631\u0627\u062a", "City": "Gujrat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062d\u0627\u0641\u0638 \u0622\u0628\u0627\u062f", "City": "Hafizabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u06be\u0646\u06af", "City": "Jhang"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u06c1\u0644\u0645", "City": "Jhelum"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0642\u0635\u0648\u0631", "City": "Kasur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062e\u0627\u0646\u06cc\u0648\u0627\u0644", "City": "Khanewal"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062e\u0648\u0634\u0627\u0628", "City": "Khushab"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u0627\u06c1\u0648\u0631", "City": "Lahore"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u06cc\u06c1", "City": "Layyah"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u0648\u062f\u06be\u0631\u0627\u06ba", "City": "Lodhran"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0646\u0688\u06cc \u0628\u06c1\u0627\u0624\u0627\u0644\u062f\u06cc\u0646", "City": "Mandi Bahauddin"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u06cc\u0627\u0646\u0648\u0627\u0644\u06cc", "City": "Mianwali"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0644\u062a\u0627\u0646", "City": "Multan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0638\u0641\u0631 \u06af\u0691\u06be", "City": "Muzaffargarh"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0627\u0631\u0648\u0648\u0627\u0644", "City": "Narowal"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0646\u06a9\u0627\u0646\u06c1 \u0635\u0627\u062d\u0628", "City": "Nankana Sahib"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0627\u0648\u06a9\u0627\u0691\u06c1", "City": "Okara"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u067e\u0627\u06a9\u067e\u062a\u0646", "City": "Pakpattan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0631\u062d\u06cc\u0645 \u06cc\u0627\u0631 \u062e\u0627\u0646", "City": "Rahim Yar Khan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0631\u0627\u062c\u0646 \u067e\u0648\u0631", "City": "Rajanpur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0631\u0627\u0648\u0644\u067e\u0646\u0688\u06cc", "City": "Rawalpindi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u0627\u06c1\u06cc\u0648\u0627\u0644 \u0636\u0644\u0639", "City": "Sahiwal"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u0631\u06af\u0648\u062f\u06be\u0627", "City": "Sargodha"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0634\u06cc\u062e\u0648\u067e\u0648\u0631\u06c1", "City": "Sheikhupura"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u06cc\u0627\u0644\u06a9\u0648\u0679", "City": "Sialkot"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0679\u0648\u0628\u06c1 \u0679\u06cc\u06a9 \u0633\u0646\u06af\u06be", "City": "Toba Tek Singh"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0648\u06c1\u0627\u0691\u06cc", "City": "Vehari"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0627\u0631\u062e\u0627\u0646", "City": "Barkhan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0686\u0627\u063a\u06cc", "City": "Chagai"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0688\u06cc\u0631\u06c1 \u0628\u06af\u0679\u06cc", "City": "Dera Bugti"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06af\u0648\u0627\u062f\u0631", "City": "Gwadar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06c1\u0631\u0646\u0627\u0626\u06cc", "City": "Harnai"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u0639\u0641\u0631 \u0622\u0628\u0627\u062f", "City": "Jafarabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u06be\u0644 \u0645\u06af\u0633\u06cc", "City": "Jhal Magsi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0642\u0644\u0627\u062a", "City": "Kalat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u06cc\u0686", "City": "Kech"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062e\u0627\u0631\u0627\u0646", "City": "Kharan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062e\u0636\u062f\u0627\u0631", "City": "Khuzdar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0642\u0644\u0639\u06c1 \u0639\u0628\u062f\u0627\u0644\u0644\u06c1", "City": "Killa Abdullah"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0642\u0644\u0639\u06c1 \u0633\u06cc\u0641 \u0627\u0644\u0644\u06c1", "City": "Killa Saifullah"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u0633\u0628\u06cc\u0644\u06c1", "City": "Lasbela"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u0648\u0631\u0627\u0644\u0627\u0626\u06cc", "City": "Loralai"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0633\u062a\u0648\u0646\u06af", "City": "Mastung"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0648\u0633\u06cc\u0670 \u062e\u06cc\u0644", "City": "Musakhel"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0635\u06cc\u0631 \u0622\u0628\u0627\u062f", "City": "Nasirabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0648\u0634\u06a9\u06cc", "City": "Nushki"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u067e\u0646\u062c\u06af\u0648\u0631", "City": "Panjgur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u067e\u0634\u06cc\u0646", "City": "Pishin"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0648\u0626\u0679\u06c1", "City": "Quetta"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0634\u06cc\u0631\u0627\u0646\u06cc", "City": "Sherani"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u0628\u06cc", "City": "Sibi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0648\u0627\u0634\u06a9", "City": "Washuk"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0698\u0648\u0628", "City": "Zhob"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0632\u06cc\u0627\u0631\u062a", "City": "Ziarat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0648\u06c1\u0644\u0648", "City": "Kohlu"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0648\u0644\u0627\u0646", "City": "Kachhi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0627\u06cc\u0628\u0679 \u0622\u0628\u0627\u062f", "City": "Abbottabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0646\u0648\u06ba", "City": "Bannu"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0679\u06af\u0631\u0627\u0645", "City": "Battagram"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0648\u0646\u06cc\u0631", "City": "Buner"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0686\u0627\u0631\u0633\u062f\u06c1", "City": "Charsadda"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0686\u062a\u0631\u0627\u0644", "City": "Chitral"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0688\u06cc\u0631\u06c1 \u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u062e\u0627\u0646", "City": "Dera Ismail Khan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06c1\u0646\u06af\u0648", "City": "Hangu"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06c1\u0631\u06cc \u067e\u0648\u0631", "City": "Haripur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0631\u06a9", "City": "Karak"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0648\u06c1\u0627\u0679", "City": "Kohat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0648\u06c1\u0633\u062a\u0627\u0646", "City": "Kohistan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0644\u06a9\u06cc \u0645\u0631\u0648\u062a", "City": "Lakki Marwat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062f\u06cc\u0631 \u0632\u06cc\u0631\u06cc\u06ba", "City": "Lower Dir"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0627\u0646\u0633\u06c1\u0631\u06c1", "City": "Mansehra"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0631\u062f\u0627\u0646", "City": "Mardan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u0648\u0634\u06c1\u0631\u06c1", "City": "Nowshera"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u067e\u0634\u0627\u0648\u0631", "City": "Peshawar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0634\u0627\u0646\u06af\u0644\u06c1", "City": "Shangla"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0635\u0648\u0627\u0628\u06cc", "City": "Swabi"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u0648\u0627\u062a", "City": "Swat"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0679\u0627\u0646\u06a9", "City": "Tank"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062a\u0648\u0631 \u063a\u0631", "City": "Torghar"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062f\u06cc\u0631 \u0628\u0627\u0644\u0627", "City": "Upper Dir"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0627\u062c\u0648\u0691", "City": "Bajaur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0627\u0644\u0627\u06a9\u0646\u0688", "City": "Malakand"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u06c1\u0645\u0646\u062f", "City": "Mohmand"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0634\u0645\u0627\u0644\u06cc \u0648\u0632\u06cc\u0631\u0633\u062a\u0627\u0646", "City": "North Waziristan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062c\u0646\u0648\u0628\u06cc \u0648\u0632\u06cc\u0631\u0633\u062a\u0627\u0646", "City": "South Waziristan"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0627\u0648\u0631\u06a9\u0632\u06cc", "City": "Orakzai"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u0638\u0641\u0631 \u0622\u0628\u0627\u062f", "City": "Muzaffarabad"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06c1\u0679\u06cc\u0627\u06ba", "City": "Hattian Bala"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0646\u06cc\u0644\u0645", "City": "Neelum"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0645\u06cc\u0631 \u067e\u0648\u0631", "City": "Mirpur"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u06be\u0645\u0628\u0631", "City": "Bhimber"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06a9\u0648\u0679\u0644\u06cc", "City": "Kotli"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u067e\u0648\u0646\u0686\u06be", "City": "Poonch"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0628\u0627\u063a", "City": "Bagh"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062d\u0648\u06cc\u0644\u06cc", "City": "Haveli"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u062f\u06be\u0646\u0648\u062a\u06cc", "City": "Sudhnati"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06af\u0644\u06af\u062a", "City": "Gilgit"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0633\u06a9\u0631\u062f\u0648", "City": "Skardu"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u06c1\u0646\u0632\u06c1", "City": "Hunza"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u062f\u06cc\u0627\u0645\u0631", "City": "Diamer"},
+
+{"Ur_Country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "Country": "Pakistan", "Ur_City": "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f", "City": "Islamabad"}]
