@@ -22,10 +22,15 @@ Tensorflow Version 1.13.1
 
 	If the version of your Tensorflow Installation is not 1.0.0 then you have to uninstall your current Tensorflow.
 	Open Anaconda Prompt and write the following command.
-	'pip uninstall tensorflow'
+	```shell
+	pip uninstall tensorflow
+	```
 	You will be asked to 'Procees (y/n)?' enter 'y' and hit enter key.
 	After uninstallation enter the following command in Anaconda Prompt to Install Tensorflow 1.13.1
-	'pip install tensorflow==1.13.1' and hit enter.
+	```shell
+	pip install tensorflow==1.13.1
+	```
+	and hit enter.
 	After installation Just Double Click the 'Urdu Virtual Assistant' icon on your desktop.
 	If the webpage is not loaded wait for 20-40 seconds and reload the page or hit the F5 key.
 
