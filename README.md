@@ -1,7 +1,13 @@
 # Seq2Seq-UrduChatBot
-A Sequence to Sequence Model Implementation of Urdu Natural Language Processing
+A Sequence to Sequence Model Implementation of Urdu Natural Language Processing. Below is the link to download the windows installer. Make sure to install the prequisites before installing. After Installation run the app by the Icon from the desktop and after 40 seconds referesh the page which is opened in your browser.
+- [Urdu Chatbot Windows App](https://drive.google.com/open?id=1Xu12QRpuzE8g37PnZRvLgia7AwO08cjf)
 # seq2seq-chatbot
-A sequence2sequence chatbot implementation with TensorFlow.
+A sequence2sequence chatbot implementation with TensorFlow. Here are some responses.
+<img src="images/1.jpg" width="340" height="350">
+<img src="images/2.jpg" width="340" height="350">
+<img src="images/3.jpg" width="340" height="350">
+<img src="images/4.jpg" width="340" height="350">
+<img src="images/5.jpg" width="340" height="350">
 
 To run this program successfully the following requirements mustbe fullfilled.
 Anaconda with Python 3.6 or higher
@@ -41,7 +47,7 @@ The following python packages are used in seq2seq-chatbot:
 - [googletrans](https://github.com/ssut/py-googletrans)
    ```shell
     pip install googletrans
-    ```	
+    ```0
 
 - [jsonpickle](https://jsonpickle.github.io/)
     ```shell
