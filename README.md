@@ -1,6 +1,7 @@
 # Seq2Seq-UrduChatBot
 A Sequence to Sequence Model Implementation of Urdu Natural Language Processing. Below is the link to download the windows installer. Make sure to install the prequisites before installing. After Installation run the app by the Icon from the desktop and after 40 seconds referesh the page which is opened in your browser.
-- [Urdu Chatbot Windows App](https://drive.google.com/open?id=1Xu12QRpuzE8g37PnZRvLgia7AwO08cjf)
+- [Urdu Chatbot Windows App](https://drive.google.com/open?id=1Xu12QRpuzE8g37PnZRvLgia7AwO08cjf) 
+Windows app will not work if your tensorflow 1.13 installed using virtual environment, for that you have to download the source from Github. We will add environment support soon!
 - [Download Checkpoints](https://drive.google.com/open?id=1qSQOUT9A1VSbx7pSNM4nX0wqOPcMzNBy)
 Download the checpoints folder and paste in the main directory of the chatbot.
 # seq2seq-chatbot
