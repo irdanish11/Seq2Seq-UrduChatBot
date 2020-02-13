@@ -8,9 +8,10 @@ Created on Tue Apr 15 23:48:28 2019
 from flask import Flask, render_template, request
 from flask import jsonify
 
-"""'models/cornell_movie_dialog/trained_model_v2/best_weights_training.ckpt'"""
+""" 
+"models/cornell_movie_dialog/trained_model_v2/best_weights_training.ckpt"
+"""
 ###Chat .py
-
 """
 Script for chatting with a trained chatbot model
 """
