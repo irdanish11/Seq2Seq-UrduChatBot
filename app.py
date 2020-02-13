@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 15 23:48:28 2019
 
-@author: IrfanDanish
+@author: Danish
 """
 
 from flask import Flask, render_template, request
@@ -16,7 +16,7 @@ Script for chatting with a trained chatbot model
 """
 import datetime
 from os import path
-from services import weather_time
+from services import weather_time, check_connectivity
 import general_utils
 import chat_command_handler
 from chat_settings import ChatSettings
@@ -24,6 +24,7 @@ from chatbot_model import ChatbotModel
 from vocabulary import Vocabulary
 import sys
 
+check_connectivity()
 #Read the hyperparameters and configure paths
 _, model_dir, hparams, checkpoint, _, _ = general_utils.initialize_session("chat")
 
@@ -86,7 +87,7 @@ def chat_fun(n_query):
                 elif chk:
                     return response
                 else:
-                    question = ChatSettings.To_query(n_query)
+                    question = n_query
                     #If it is not a command (it is a question), pass it on to the chatbot model to get the answer
                     question_with_history, answer = model.chat(question, chat_settings)
                     
@@ -98,7 +99,7 @@ def chat_fun(n_query):
                         for i in range(len(answer)):
                             print("ChatBot (Beam {0}): {1}".format(i, answer[i]))
                     else:
-                        n_answer = ChatSettings.To_answer(answer) 
+                        n_answer = answer
                         print("ChatBot: {0}".format(n_answer))
                         
                     print()

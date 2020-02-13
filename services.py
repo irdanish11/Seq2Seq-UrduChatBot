@@ -10,6 +10,19 @@ from googletrans import Translator
 import json
 import random
 import re
+import socket
+
+
+def check_connectivity():
+    try:
+        # connect to the host -- tells us if the host is actually
+        # reachable
+        socket.create_connection(("www.google.com", 80))
+        return True
+    except OSError:
+        pass
+    raise Exception('You are not connected to the internet or your internet connection is not stable. Please Connect to the intenet to run the chatbot.')
+
 
 class weather_time:
     def __init__(self):
@@ -176,8 +189,8 @@ class weather_time:
         elif resp_chk:
             return True, self.serve_general_query(count)
         else:
-            print('else')
-            weather = 0
+            #print('else')
+            weather = None
             return False, weather
                 
         

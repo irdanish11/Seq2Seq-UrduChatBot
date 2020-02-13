@@ -14,6 +14,7 @@ import tensorflow as tf
 from tensorflow.python.layers import core as layers_core
 from tensorflow.contrib.tensorboard.plugins import projector
 from os import path
+from chat_settings import ChatSettings as cs
 
 from vocabulary import Vocabulary
 
@@ -320,6 +321,7 @@ class ChatbotModel(object):
             answers: array of answer beams if chat_settings.show_all_beams = True otherwise the single selected answer.
             
         """
+        question = cs.To_query(question)
         #Process the question by cleaning it and converting it to an integer encoded vector
         if chat_settings.enable_auto_punctuation:
             question = Vocabulary.auto_punctuate(question)
@@ -380,7 +382,7 @@ class ChatbotModel(object):
         if chat_settings.show_all_beams:
             return q_with_hist, answers
         else:
-            return q_with_hist, answers[0]
+            return q_with_hist, cs.To_answer(answers[0])
     
     def trim_conversation_history(self, length):
         """Trims the conversation history to the desired length by removing entries from the beginning of the array.
