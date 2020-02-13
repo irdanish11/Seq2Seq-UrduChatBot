@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 10 04:59:18 2019
 
-@author: IrfanDanish
+@author: Danish
 """
 #Study
 import requests
