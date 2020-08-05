@@ -1,0 +1,6 @@
+You: hello
+ChatBot: how are you?
+
+You: آپ کیسے ہو
+ChatBot: we know what you mean!
+

@@ -1,0 +1,6 @@
+You: How are you
+ChatBot: very well. thank you.
+
+You: How are you
+ChatBot: I can go now.
+

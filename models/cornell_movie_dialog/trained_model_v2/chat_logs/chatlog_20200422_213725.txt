@@ -1,0 +1,6 @@
+You: hello?
+ChatBot: I know who he is.
+
+You: what?
+ChatBot: there should never be a thing.
+

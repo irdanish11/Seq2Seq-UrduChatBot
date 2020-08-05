@@ -32,6 +32,7 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 call C:\Users\%USERNAME%\Anaconda3\Scripts\activate.bat C:\Users\%USERNAME%\Anaconda3
+call activate tf_113
 start http://127.0.0.1:5000
 python app.py "models\cornell_movie_dialog\trained_model_v2\best_weights_training.ckpt"
 

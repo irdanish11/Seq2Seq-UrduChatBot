@@ -1,0 +1,27 @@
+You: hello
+ChatBot: how are you?
+
+You: fuck off
+ChatBot: how are you?
+
+You: fuck off
+ChatBot: oh pete. what are you talking about?
+
+You: fuck off
+ChatBot: what?
+
+You: fuck off
+ChatBot: oh shit.
+
+You: fuck off
+ChatBot: oh.
+
+You: fuck off
+ChatBot: oh.
+
+You: fuck off\
+ChatBot: is this ok nick.
+
+You: fuck off
+ChatBot: oh.
+

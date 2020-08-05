@@ -1,0 +1,15 @@
+You: hello
+ChatBot: how are you?
+
+You: how are you?
+ChatBot: fine.
+
+You: are you okay?
+ChatBot: can I keep you?
+
+You: you are idiot
+ChatBot: oh. well.
+
+You: hello
+ChatBot: you know what it's about. huh? you want to come home. I wanted to be you.
+

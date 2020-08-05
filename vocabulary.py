@@ -288,7 +288,7 @@ class Vocabulary(object):
             text_parts = text.split()
             if len(text_parts) > max_words:
                 truncated_text_parts = text_parts[:max_words]
-                while len(truncated_text_parts) > 0 and not re.match("[.!؟]", truncated_text_parts[-1]):
+                while len(truncated_text_parts) > 0 and not re.match("[.!?]", truncated_text_parts[-1]):
                     truncated_text_parts.pop(-1)
                 if len(truncated_text_parts) == 0:
                     truncated_text_parts = text_parts[:max_words]
@@ -304,13 +304,13 @@ class Vocabulary(object):
             text: the text to apply punctuation to.
         """
         text = text.strip()
-        if not (text.endswith(".") or text.endswith("؟") or text.endswith("!") or text.startswith("--")):
+        if not (text.endswith(".") or text.endswith("?") or text.endswith("!") or text.startswith("--")):
             tmp = re.sub(r"'", "", text.lower())
-            if (tmp.startswith("کون") or tmp.startswith("کیا") or tmp.startswith("کب") or 
-                    tmp.startswith("کہاں") or tmp.startswith("کیوں") or tmp.startswith("کیسے") or
-                    tmp.endswith("کون") or tmp.endswith("کیا") or tmp.endswith("کب") or 
-                    tmp.endswith("کہاں") or tmp.endswith("کیوں") or tmp.endswith("کیسے") or
-                    tmp.startswith("ہیں") or tmp.startswith("گے") or tmp.startswith("نہیں کریں گے") or tmp.startswith("کر سکتے ہیں")):
+            if (tmp.startswith("who") or tmp.startswith("what") or tmp.startswith("when") or 
+                    tmp.startswith("where") or tmp.startswith("why") or tmp.startswith("how") or
+                    tmp.endswith("who") or tmp.endswith("what") or tmp.endswith("when") or 
+                    tmp.endswith("where") or tmp.endswith("why") or tmp.endswith("how") or
+                    tmp.startswith("are") or tmp.startswith("will") or tmp.startswith("wont") or tmp.startswith("can")):
                 text = "{}?".format(text)
             else:
                 text = "{}.".format(text)

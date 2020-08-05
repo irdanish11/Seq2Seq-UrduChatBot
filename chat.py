@@ -16,12 +16,9 @@ import chat_command_handler
 from chat_settings import ChatSettings
 from chatbot_model import ChatbotModel
 from vocabulary import Vocabulary
-from services import weather_time, check_connectivity
 
-""" 
-    "models/cornell_movie_dialog/trained_model_v2/best_weights_training.ckpt"
-"""
-check_connectivity()
+"""'models/cornell_movie_dialog/trained_model_v2/best_weights_training.ckpt'"""
+
 #Read the hyperparameters and configure paths
 _, model_dir, hparams, checkpoint, _, _ = general_utils.initialize_session("chat")
 
@@ -42,11 +39,10 @@ else:
 chatlog_filepath = path.join(model_dir, "chat_logs", "chatlog_{0}.txt".format(datetime.datetime.now().strftime("%Y%m%d_%H%M%S")))
 chat_settings = ChatSettings(hparams.model_hparams, hparams.inference_hparams)
 
-wt = weather_time()
-def chat_fun():
+
+def chat_fun_english(question, model):
     terminate_chat = False
     reload_model = False
-    
     while not terminate_chat:
         #Create the model
         print()
@@ -66,21 +62,16 @@ def chat_fun():
     
             #Show the commands
             if not reload_model:
-                #Uncomment the following line if you want to print commands.
-                #chat_command_handler.print_commands()
-                print('Model Reload!')
+                chat_command_handler.print_commands()
     
             while True:
                 #Get the input and check if it is a question or a command, and execute if it is a command
-                question = input("You: ")
-                chk, response = wt.query_check(question)
+                #question = input("You: ")
                 is_command, terminate_chat, reload_model = chat_command_handler.handle_command(question, model, chat_settings)
                 if terminate_chat or reload_model:
                     break
                 elif is_command:
                     continue
-                elif chk:
-                    print(response.replace('<br>', ' '))
                 else:
                     #If it is not a command (it is a question), pass it on to the chatbot model to get the answer
                     question_with_history, answer = model.chat(question, chat_settings)
@@ -88,17 +79,20 @@ def chat_fun():
                     #Print the answer or answer beams and log to chat log
                     if chat_settings.show_question_context:
                         print("Question with history (context): {0}".format(question_with_history))
+                        print("\n1st if")
                     
                     if chat_settings.show_all_beams:
                         for i in range(len(answer)):
                             print("ChatBot (Beam {0}): {1}".format(i, answer[i]))
+                            print("\n2nd if")
                     else:
                         print("ChatBot: {0}".format(answer))
-                
-                    #return n_answer
+                        #print("\n else")
+                        
+                    print()
+                    
                     if chat_settings.inference_hparams.log_chat:
                         chat_command_handler.append_to_chatlog(chatlog_filepath, question, answer)
+                    return answer
                 
-
-
-chat_fun()
+#chat_fun()

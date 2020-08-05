@@ -1,0 +1,12 @@
+You: hello
+ChatBot: how are you?
+
+You: hello
+ChatBot: how are you?
+
+You: hello
+ChatBot: where is she?
+
+You: who are you?
+ChatBot: i'm gonna be frank. what are you doing here?
+

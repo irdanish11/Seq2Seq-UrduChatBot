@@ -1,0 +1,9 @@
+You: hello
+ChatBot: how are you?
+
+You: i'm fine
+ChatBot: well what are you doing here?
+
+You: nothing
+ChatBot: are you still curious?
+

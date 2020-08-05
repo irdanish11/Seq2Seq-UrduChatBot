@@ -1,0 +1,1 @@
+tensorboard --logdir=TensorBoard --host localhost --port 8088

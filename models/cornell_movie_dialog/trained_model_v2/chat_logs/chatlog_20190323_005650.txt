@@ -1,0 +1,12 @@
+You: hello
+ChatBot: how are you?
+
+You: hello
+ChatBot: oh.
+
+You: exit
+ChatBot: it's beautiful.
+
+You: !get_ipython().kernel.set_cwd(u'''C:\\Users\\Danish\\Downloads\\Compressed\\seq2seq-chatbot-master\\seq2seq-chatbot-master\\seq2seq-chatbot\\ui''')
+ChatBot: right. where are you?
+
