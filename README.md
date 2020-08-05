@@ -50,7 +50,7 @@ The following python packages are used in seq2seq-chatbot:
 - [googletrans](https://github.com/ssut/py-googletrans)
    ```shell
     pip install googletrans
-    ```0
+    ```
 
 - [jsonpickle](https://jsonpickle.github.io/)
     ```shell
